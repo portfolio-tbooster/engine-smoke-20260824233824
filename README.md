@@ -1,0 +1,3 @@
+# Smoke test
+
+First commit.
